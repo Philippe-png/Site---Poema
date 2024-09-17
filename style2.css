@@ -1,0 +1,70 @@
+*{
+
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+
+}
+
+#cor{
+
+background-color: black;
+padding: 34px;
+text-align: center;
+
+}
+
+#centro{
+
+font-size: 30px;
+color: white;
+
+}
+
+#fonte{
+
+color: white;
+font-size: 50px;
+
+
+
+}
+
+.grande{
+
+font-size: 50px;
+width: 100vw;
+background-image: linear-gradient(to right, #573D74,#E83FC2, #E8993F, #E87B3F, #E8403F, #E8B03F);
+
+
+
+}
+
+#imagem{
+
+    background-image: url("R.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+    
+
+#imagem2{
+
+
+background-image: url("hermoso-atardecer-en-la-playa-8459.webp");
+background-size: cover;
+    background-attachment: fixed;
+
+
+
+}
+
+#fonte2{
+
+
+    color: white;
+    font-size: 50px;
+
+}
